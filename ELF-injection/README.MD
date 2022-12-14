@@ -1,8 +1,12 @@
 # PT_LOAD INJECTOR
 
 Do not worry I will write a blog about this injection technique.
+Only what you should know is that entrypoint and segments are important to inject your shellcode
+I have not included reverse shell or something like that. This project is for eductational purposes only.
 
-WHat you need to run this code are:
+As I said the blog will be published soon. Stay tuned!!
+
+What you need to have to run this code:
 
 ```
 pip install pwntools 
